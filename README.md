@@ -6,9 +6,8 @@ This project analyzes borrower financial data to identify key factors influencin
 - SQL Server
 - Power Query
 - DAX
-- Microsoft Power BI
 
-## Project Description
+##  Project Description
 Loan data was imported from SQL Server into Power BI for analysis and visualization. A dataflow and Enterprise Gateway were configured to create a secure connection between the database and Power BI, allowing the data to be accessed and used for reporting.
 
 Power Query was used to clean and transform the raw dataset. Tasks included handling missing values, correcting data types, standardizing formats, and organizing borrower information properly. These steps helped ensure that the data was accurate and reliable for analysis.
