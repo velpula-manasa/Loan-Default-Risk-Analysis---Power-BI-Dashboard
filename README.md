@@ -1,2 +1,6 @@
 # Loan-Default-Risk-Analysis---Power-BI-Dashboard
-This project analyzes borrower financial data to identify key factors influencing loan default risk, helping financial institutions make better lending decisions and reduce potential losses.
+This project analyzes borrower financial data to identify key factors influencing loan default risk, helping financial institutions make better lending decisions and reduce potential losses.Data was imported from SQL Server into Power BI, and a dataflow with an Enterprise Gateway was configured to enable secure and reliable data integration. Using Power Query, the dataset was cleaned and transformed by handling missing values, standardizing formats, and structuring borrower information to ensure accurate and consistent analysis.
+
+Custom DAX measures and calculated columns were created to derive key metrics related to borrower profiles and loan performance. An interactive Power BI dashboard was developed with dynamic visualizations, filters, and slicers to explore relationships between borrower characteristics and loan default behavior.
+
+The analysis highlights how factors such as debt-to-income ratio, credit score, income level, employment type, mortgage status, and number of dependents influence the likelihood of loan default. These insights help identify high-risk borrower profiles and support data-driven decision-making in loan approval and risk management.
